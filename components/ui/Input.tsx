@@ -14,7 +14,7 @@ const Input = ({ name, type, placeholder, value }: InputProps) => {
         name={name}
         placeholder={placeholder}
         value={value} />
-
+        
     </>);
 }
 
