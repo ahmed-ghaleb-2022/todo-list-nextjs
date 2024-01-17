@@ -14,6 +14,7 @@ async function getData() {
       createdAt: "desc"
     }
   });
+  
   return data
 }
 
