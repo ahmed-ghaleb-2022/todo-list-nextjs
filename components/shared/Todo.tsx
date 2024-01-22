@@ -1,4 +1,4 @@
-import { TodoType } from "@/types/Todotype";
+import { TodoType } from "@/types/todoType";
 import ChangeTodo from "./ChangeTodo";
 import EditTodo from "./EditTodo";
 import DeleteTodo from "./DeleteTodo";
