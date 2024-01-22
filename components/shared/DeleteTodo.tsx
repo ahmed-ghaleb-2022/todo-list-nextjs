@@ -5,7 +5,7 @@ import Form from "../ui/Form";
 import Input from "../ui/Input";
 import Button from "../ui/Button";
 import { BsFillTrashFill } from "react-icons/bs";
-import { TodoType } from "@/types/Todotype";
+import { TodoType } from "@/types/todoType";
 
 const DeleteTodo = ({todo}: TodoType) => {
     return ( <Form
